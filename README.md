@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mouadh Amemri</h1>
+<h1 align="center">Hi 👋, I'm Mouadh Amemri :smile:</h1>
 <h3 align="center">Welcome to my Github Profile!</h3>
 
 - 🌱 I’m currently learning **Web Stack programming at holberton school**
