@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **mobile development project**
 
-- 👨‍💻 All of my projects are available at [here on github!](here on github!)
-
 - 📝 I regularly write articles on [medium](medium)
 
 - 📫 How to reach me **mouadh1500@gmail.com**
