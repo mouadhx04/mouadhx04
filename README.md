@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouadhx04&label=Profile%20views&color=0e75b6&style=flat" alt="mouadhx04" /> </p>
 
-- 🌱 I’m currently learning **full stack web at holberton school**
+- 🌱 I’m currently learning **full stack web developer**
 
 - 👨‍💻 All of my projects are available at [https://mouadhx04.github.io/Mouadh_Amemri](https://mouadhx04.github.io/Mouadh_Amemri)
 
