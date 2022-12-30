@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack web developer**
 
-- 👨‍💻 All of my projects are available at [https://mouadhx04.github.io/Mouadh_Amemri](https://mouadhx04.github.io/Mouadh_Amemri)
+- 👨‍💻 Personal Portfolio: [https://mouadhx04.github.io/Mouadh_Amemri](https://mouadhx04.github.io/Mouadh_Amemri)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
